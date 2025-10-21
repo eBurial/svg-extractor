@@ -1,11 +1,15 @@
 # 🎨 SVG Extractor
 
 <p align="center">
-  <img src="images/readme-logo.png" alt="SVG Extractor Logo" width="128" height="128">
+  <img src="images/readme-logo.png" alt="SVG Extractor Logo" width="512" height="512">
 </p>
 
 <p align="center">
-  <strong>🔍 Extract and download SVG images from any webpage with one click!</strong>
+Hi, i'm sam! This is just a simple personal project, i created it to learn how to create chrome extensions.
+</p>
+
+<p align="center">
+<strong>🔍 Extract and download SVG images from any webpage with one click!</strong>
 </p>
 
 <p align="center">

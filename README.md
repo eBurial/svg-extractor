@@ -12,14 +12,6 @@ Hi, i'm sam! This is just a simple personal project, i created it to learn how t
 <strong>🔍 Extract and download SVG images from any webpage with one click!</strong>
 </p>
 
-<p align="center">
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#features">Features</a> •
-  <a href="#development">Development</a> •
-  <a href="#license">License</a>
-</p>
-
 ---
 
 ## ✨ Features
